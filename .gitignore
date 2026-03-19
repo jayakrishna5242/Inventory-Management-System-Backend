@@ -31,4 +31,12 @@ build/
 
 ### VS Code ###
 .vscode/
+
+
+
+############################
+# Environment Files (IMPORTANT)
+############################
 .env
+.env.*
+*.env
